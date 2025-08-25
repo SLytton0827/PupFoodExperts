@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name='impact-site-verification' value='abec2db7-ab50-4c0e-ae5a-e6efae04e6de'>
+  <title>Pup Food Experts — Best Dog Food Delivery (2025)</title>
+  <meta name="description" content="Simple, no‑BS guide to top dog food delivery brands. Compare price/day, food type, and who each brand is best for." />
+  <style>
+    :root { --bg:#ffffff; --text:#111; --muted:#6b7280; --line:#e5e7eb; --brand:#111; --brandText:#fff; }
+    *{box-sizing:border-box} body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;color:var(--text);background:var(--bg);} 
+    .wrap{max-width:1000px;margin:0 auto;padding:24px}
+    h1{font-size:clamp(28px,4vw,44px);line-height:1.1;margin:0 0 8px}
+    h2{font-size:clamp(22px,3vw,28px);margin:16px 0}
+    p{color:var(--muted)}
+    .btn{display:inline-flex;gap:8px;align-items:center;border:1px solid #000;border-radius:12px;padding:10px 14px;font-weight:600;font-size:14px;text-decoration:none}
+    .btn-primary{background:var(--brand);color:var(--brandText)}
+    .btn-secondary{background:#fff;color:#000}
+    .grid{display:grid;gap:16px}
+    .hero{padding:36px 0;border-bottom:1px solid var(--line);text-align:center}
+    .list>li{margin:12px 0}
+    table{width:100%;border:1px solid var(--line);border-radius:12px;border-collapse:collapse;overflow:hidden}
+    th,td{padding:10px;border-top:1px solid var(--line);text-align:left;font-size:14px}
+    th{background:#f9fafb;font-weight:700}
+    .disclosure{font-size:12px;color:var(--muted)}
+    .section{padding:28px 0}
+    .footer{margin-top:24px;padding-top:16px;border-top:1px solid var(--line);font-size:12px;color:var(--muted);text-align:center}
+    img.brand{width:140px;height:40px;object-fit:contain;filter:grayscale(0.2)}</style>
+  <!-- GA4 (optional) — replace G-XXXXXXX, or delete this block -->
+  <script>
+    // Paste your GA4 Measurement ID (e.g., G-ABCD1234)
+    const GA_ID = "G-XXXXXXX"; 
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXX"></script>
+  <script>
+    if (GA_ID && GA_ID !== "G-XXXXXXX") {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', GA_ID);
+    }
+  </script>
+  <!-- Meta Pixel (optional) — replace 1234567890, or delete this block -->
+  <script>
+    const FB_PIXEL_ID = "1234567890";
+  </script>
+  <script>
+    if (FB_PIXEL_ID && FB_PIXEL_ID !== "1234567890") {
+      !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+      n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', FB_PIXEL_ID); fbq('track', 'PageView');
+    }
+  </script>
+  <noscript><img height="1" width="1" style="display:none" alt=""
+    src="https://www.facebook.com/tr?id=1234567890&ev=PageView&noscript=1"/></noscript>
+</head>
+<body>
+  <header class="hero wrap">
+    <h1>Best Dog Food Delivery Services (2025)</h1>
+    <p>Simple, no‑BS guide to fresh, raw, and air‑dried plans. See price per day, ingredients, and who each brand is best for.</p>
+    <div class="grid" style="grid-template-columns:repeat(2,minmax(0,1fr));max-width:420px;margin:16px auto 0;">
+      <a class="btn btn-primary" href="#rankings">See Top Picks</a>
+      <a class="btn btn-secondary" href="#compare">Compare Plans</a>
+    </div>
+    <p class="disclosure" style="margin-top:8px">Advertising disclosure: We may earn a commission if you buy through our links. Updated Aug 21, 2025.</p>
+  </header>
+  <main class="wrap">
+    <!-- TODO: drop in brand logos when ready -->
+
+    <section id="rankings" class="section">
+      <h2>Top dog food delivery services</h2>
+      <ol class="list">
+        <li>
+          <strong>1) The Farmer's Dog —</strong> Best for picky eaters · Typical price: $2–$10/day
+          <div>
+            <a class="btn btn-primary" href="/go/farmers-dog" onclick="track('Farmers Dog')">See Plans</a>
+          </div>
+        </li>
+        <li>
+          <strong>2) Ollie —</strong> Fresh + baked · $2–$8/day
+          <div>
+            <a class="btn btn-primary" href="/go/ollie" onclick="track('Ollie')">See Plans</a>
+          </div>
+        </li>
+        <li>
+          <strong>3) Nom Nom —</strong> Fresh; digestive support · $3–$9/day
+          <div>
+            <a class="btn btn-primary" href="/go/nom-nom" onclick="track('Nom Nom')">See Plans</a>
+          </div>
+        </li>
+        <li>
+          <strong>4) We Feed Raw —</strong> Raw patties · $4–$12/day
+          <div>
+            <a class="btn btn-primary" href="/go/we-feed-raw" onclick="track('We Feed Raw')">See Plans</a>
+          </div>
+        </li>
+        <li>
+          <strong>5) Spot & Tango —</strong> Air‑dried · $3–$10/day
+          <div>
+            <a class="btn btn-primary" href="/go/spot-and-tango" onclick="track('Spot & Tango')">See Plans</a>
+          </div>
+        </li>
+      </ol>
+    </section>
+
+    <section id="compare" class="section">
+      <h2>Side‑by‑side comparison</h2>
+      <div style="overflow-x:auto">
+        <table>
+          <thead>
+            <tr>
+              <th>Brand</th>
+              <th>Food type</th>
+              <th>Typical price/day*</th>
+              <th>Best for</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>The Farmer's Dog</td>
+              <td>Fresh, human‑grade</td>
+              <td>$2–$10</td>
+              <td>Picky eaters; sensitive stomachs</td>
+              <td><a class="btn btn-secondary" href="/go/farmers-dog" onclick="track('Farmers Dog - Compare')">Compare</a></td>
+            </tr>
+            <tr>
+              <td>Ollie</td>
+              <td>Fresh + baked</td>
+              <td>$2–$8</td>
+              <td>Budget‑friendly variety</td>
+              <td><a class="btn btn-secondary" href="/go/ollie" onclick="track('Ollie - Compare')">Compare</a></td>
+            </tr>
+            <tr>
+              <td>Nom Nom</td>
+              <td>Fresh</td>
+              <td>$3–$9</td>
+              <td>Digestive support</td>
+              <td><a class="btn btn-secondary" href="/go/nom-nom" onclick="track('Nom Nom - Compare')">Compare</a></td>
+            </tr>
+            <tr>
+              <td>We Feed Raw</td>
+              <td>Raw patties</td>
+              <td>$4–$12</td>
+              <td>Raw feeders; working dogs</td>
+              <td><a class="btn btn-secondary" href="/go/we-feed-raw" onclick="track('We Feed Raw - Compare')">Compare</a></td>
+            </tr>
+            <tr>
+              <td>Spot & Tango</td>
+              <td>Air‑dried</td>
+              <td>$3–$10</td>
+              <td>Shelf‑stable convenience</td>
+              <td><a class="btn btn-secondary" href="/go/spot-and-tango" onclick="track('Spot & Tango - Compare')">Compare</a></td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="disclosure">*Estimates for guidance only. Final pricing depends on your dog’s profile and promotions.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>How we choose</h2>
+      <ol>
+        <li><strong>Ingredients & transparency:</strong> clear labeling, sourcing, AAFCO compliance.</li>
+        <li><strong>Recipe variety:</strong> fresh, air‑dried, raw, with‑grain options.</li>
+        <li><strong>Value:</strong> price/day vs. ingredient quality; first‑box savings considered.</li>
+        <li><strong>Convenience:</strong> quiz, portioning, recyclability, delivery controls.</li>
+        <li><strong>Owner feedback:</strong> verified customer sentiment; vet input when available.</li>
+      </ol>
+    </section>
+
+    <section class="section">
+      <h2>FAQ</h2>
+      <details><summary><strong>How do I transition to a new food?</strong></summary>
+        <p>Go slow over 7–10 days: start ~25% new / 75% old, then increase by 25% every few days. If you see loose stool, slow down.</p>
+      </details>
+      <details><summary><strong>What if my dog has allergies?</strong></summary>
+        <p>Try limited‑ingredient or single‑protein recipes. Keep a food diary and consult your vet for long‑term care.</p>
+      </details>
+      <details><summary><strong>Are there cheaper ways to upgrade?</strong></summary>
+        <p>Use fresh toppers over quality kibble, rotate proteins, and buy larger plans to reduce cost per meal.</p>
+      </details>
+    </section>
+
+    <p class="disclosure">Disclaimer: General info, not medical advice. Always consult your veterinarian. Some links may be affiliate links; commissions never influence our reviews.</p>
+  </main>
+
+  <footer class="footer">© Pup Food Experts. All rights reserved.</footer>
+
+  <script>
+    // Simple click tracking for GA4 / Meta (if present)
+    function track(label){
+      if (window.gtag) gtag('event','outbound_click',{event_category:'outbound',event_label:label});
+      if (window.fbq) fbq('trackCustom','OutboundClick',{label});
+    }
+  </script>
+</body>
+</html>
